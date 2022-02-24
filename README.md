@@ -4,6 +4,8 @@ Simple login menggunakan Javascript. Memanfaatkan Localstorage untuk menyimpan s
 
 Go to demo : https://zaadev.vercel.app/project/simple-login-local
 
+![Image](image.png)
+
 ## How to use 🤔
 
 Follow the steps below.
