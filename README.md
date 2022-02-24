@@ -6,7 +6,7 @@ Simple login menggunakan Javascript. Memanfaatkan Localstorage untuk menyimpan s
 
 Follow the steps below.
 
-Go to demo : https://zaadev.vercel.app/project/simple-login-localstorage
+Go to demo : https://zaadev.vercel.app/project/simple-login-local
 
 - Register first
 - Login
