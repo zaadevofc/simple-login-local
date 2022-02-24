@@ -2,11 +2,11 @@
 
 Simple login menggunakan Javascript. Memanfaatkan Localstorage untuk menyimpan seluruh data yang telah user input. Project ini cuma untuk refrensi temen temen ya, consider this just for learning. Dont forget to follow my github 😶. Happy coding :)
 
+Go to demo : https://zaadev.vercel.app/project/simple-login-local
+
 ## How to use 🤔
 
 Follow the steps below.
-
-Go to demo : https://zaadev.vercel.app/project/simple-login-local
 
 - Register first
 - Login
